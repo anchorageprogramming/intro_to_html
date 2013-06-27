@@ -1,7 +1,8 @@
 Introduction to HTML
 =============
 
-Cheat Sheet for the introduction to html class
+Cheat Sheet for the introduction to html class 
+[Slides](https://docs.google.com/presentation/d/1IK-WMTb8YtQ14UJp652GOpRply1mggIqqdUI-ggYB-Q/edit?usp=sharing)
 
 ## Look at the source of a web page
 1. Navigate to the [Anchorage Programming Workshop webiste](http://anchorageprogramming.org).
@@ -115,5 +116,5 @@ Here's an example:
 </html>
 ```
 ## Next steps
-Sign up for Code academy and take the web Fundamentals class!
+Sign up for Code academy and take the web Fundamentals class! 
 [Code Academy](http://www.codecademy.com/tracks/web)
