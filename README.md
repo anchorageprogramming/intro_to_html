@@ -54,7 +54,7 @@ Here's an example:
 
 ## Add Elements: Link, Image, LineBreak
 * Add a link: `<a href='url'>Text</a>`
-* Add an image: `<img source='url' />` Use [google image search](http://images.google.com) to link to something good.
+* Add an image: `<img src='url' />` Use [google image search](http://images.google.com) to link to something good.
 * Add a line break: `<br\>`
 
 Here's an example:
