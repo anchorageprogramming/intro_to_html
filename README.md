@@ -11,9 +11,9 @@ Cheat Sheet for the introduction to html class
 ## Create the skeleton of your page
 * Add the doctype `<!doctype html>`
 * Add the html tags `<html></html>`
-* Add the head tag `<head></head>`
-* Nest the title in the head tag and add some text in between the opening and closing of the tag. `<title>Text</title>`
-* Add the body tag `<body></body>`
+* Nest the head tag inside the html tag `<head></head>`
+* Nest the title in the head tag and add some text in between the opening and closing of the tag. Kind of like this`<title>Text</title>`
+* Nest the body tag inside the html tag `<body></body>`
 * Write something inside the body
  
 Should look something like this:
