@@ -71,6 +71,7 @@ Here's an example:
   </body>
 </html>
 ```
+## This is where the first class left off.
 
 ## Add Elements: Ordered Lists, Unordered Lists, Tables
 * Add an ordered list: `<ol><li>item</item></ol>`
