@@ -33,7 +33,7 @@ Should look something like this:
 All these elements should be nested inside the body tag.
 * Create a paragraph tag. `<p>Text</p>` Add [text](https://www.google.com/search?q=ipsum&oq=ipsum) in between the opening and closing tag.
 * Create several levels of headings, just add a number to h. Experiment! `<h1>Text</h1>`
-* Bold some text. `<b>Text</b>`
+* Bold some text. `<strong>Text</strong>`
 * Italicize some text. `<em>Text</em>`
 
 Here's an example:
@@ -44,7 +44,7 @@ Here's an example:
     <title>Hello World</title>
   </head>
   <body>
-    <p>Nice <b>to</b> meet <em>ya</em>!</p>
+    <p>Nice <strong>to</strong> meet <em>ya</em>!</p>
     <h1>Heading One</h1>
     <h2>Heading Two</h2>
     <h6>Heading Crazy</h6>
@@ -55,7 +55,7 @@ Here's an example:
 ## Add Elements: Link, Image, LineBreak
 * Add a link: `<a href='url'>Text</a>`
 * Add an image: `<img src='url' />` Use [google image search](http://images.google.com) to link to something good.
-* Add a line break: `<br\>`
+* Add a line break: `<br />`
 
 Here's an example:
 ```html
