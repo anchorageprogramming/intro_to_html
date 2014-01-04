@@ -9,6 +9,9 @@ Cheat Sheet for the introduction to html class
 1. Right-click the page and select **View Page Source**.   
 
 ## Create the skeleton of your page
+1. Open a text editor like Notepad or TextEdit.
+1. Choose 'Save As' and name your file 'index.html'
+
 * Add the doctype `<!doctype html>`
 * Add the html tags `<html></html>`
 * Nest the head tag inside the html tag `<head></head>`
